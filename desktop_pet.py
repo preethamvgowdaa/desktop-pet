@@ -39,7 +39,7 @@ class CutePet:
         )
         self.canvas.pack()
         
-        # Mouse tracking for dragging
+        
         self.dragging = False
         self.drag_start_x = 0
         self.drag_start_y = 0
