@@ -2,7 +2,7 @@
 
 A fun, interactive desktop pet that lives on your screen! This adorable pink fluffy creature walks around, plays, and responds to your interactions.
 
-## ✨ Features
+ Features
 
 - 🎨 **Attractive Design** - Pink fluffy animated pet with blinking eyes
 - 🎮 **Fully Interactive** - Click, drag, and play with your pet
